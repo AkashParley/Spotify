@@ -3,14 +3,14 @@
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
-[Spotify Logo]![ ](https://github.com/user-attachments/assets/ef3e4d64-82af-4192-adbd-5529e235e8ea)
+![ ](https://github.com/user-attachments/assets/ef3e4d64-82af-4192-adbd-5529e235e8ea)
 
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
 - **Dashboard Link:** [Tableau Dashboard](https://public.tableau.com/views/Book1_17287292047080/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Netflix]()
+![](https://github.com/user-attachments/assets/63551996-f9aa-4cfe-ab27-e4bbbbd98afd)
 
 
 
