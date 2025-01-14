@@ -8,7 +8,7 @@ Project Category: Advanced
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
-- **Dashboard Link:** [Tableau Dashboard]([https://public.tableau.com/views/Book1_17287292047080/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Book2_17289134476450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- **Dashboard Link:** [Tableau Dashboard]([https://public.tableau.com/views/Book1_17287292047080/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Book2_17289134476450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![](https://github.com/user-attachments/assets/63551996-f9aa-4cfe-ab27-e4bbbbd98afd)
 
